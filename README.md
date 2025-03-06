@@ -26,7 +26,7 @@ El análisis cuantitativo se centrará en las canciones más populares que conti
 
 - **Daddy Yankee**: Gasolina (Reguetón)
 - **Ivy Queen**: Quiero bailar (Reguetón)
-- **Luis Fonsi**: Despacito (Pop)
+- **Luis Fonsi**: Despacito (Reguetón)
 - **Lalo Rodríguez**: Ven devórame otra vez (Salsa)
 - **Frankie Ruiz**: Desnúdate mujer (Salsa)
 - **Eddie Santiago**: Mía (Salsa)
