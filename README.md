@@ -57,3 +57,14 @@ El objetivo principal es proporcionar un **análisis profundo** de las canciones
 
 La **cultura es dinámica** y, con ella, la lengua evoluciona 🌟. El uso de vulgarismos en la música popular es un reflejo de los **cambios sociales y culturales** 🌀. Aunque estos vulgarismos pueden ser una forma única de expresión cultural, es importante mantener un balance para preservar el **respeto y la claridad** en la comunicación. 🌏✨  
 
+## 🎨 Desarrolladores
+
+- ✨ **Génesis M. Ojeda**
+  - 🐙 **GitHub**: [DevQueenPR](https://github.com/DevQueenPR)  
+  - 💼 **LinkedIn**: [Génesis M. Ojeda](https://www.linkedin.com/in/g%C3%A9nesis-ojeda-451576302?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
+- 🌟 **Lara Cordero**
+  - 🐱 **GitHub**: [lvtech](https://github.com/lvctech)
+  - 💼 **LinkedIn**: [Lara Cordero](https://www.linkedin.com/in/lara-cordero/)    
+
+---
+
